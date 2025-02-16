@@ -62,5 +62,4 @@ This part of the training plan will provide hands-on experience with the Terrafo
 - Working with Terraform Enterprise
 - Validating Terraform configurations
 - Securing Terraform configurations
-- Best practices for working with Terraform
-- Exam preparation tips and tricks
+
